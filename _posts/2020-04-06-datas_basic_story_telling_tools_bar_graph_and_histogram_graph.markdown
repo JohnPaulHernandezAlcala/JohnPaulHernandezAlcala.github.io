@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data's Basic Story Telling Tools: Bar Graph and Histogram Graph"
-date:       2020-04-07 02:40:21 +0000
+date:       2020-04-06 22:40:22 -0400
 permalink:  datas_basic_story_telling_tools_bar_graph_and_histogram_graph
 ---
 
