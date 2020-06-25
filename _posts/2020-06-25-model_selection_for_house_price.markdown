@@ -16,7 +16,7 @@ Once you are acclimated to the development process, it is straight forward with 
 ## Needed Structure
 Before jumping into cleaning data and plotting anything, I gave myself structure and organization, so I could make sure I did not just get lost in the data and come out of it without meeting my project objectives. I use the Data Science Lifecycle below as my map for my data journey:
 
-![Data Science Lifecycle](http://sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png)
+![image1](http://sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png)
 Image provided by [Sudeep Agarwal](http://sudeep.co/data-science/Understanding-the-Data-Science-Lifecycle/)
 
 With that process, I can have a step-by-step recipe for success for all my projects--all I have to do is just follow it!
