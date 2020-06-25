@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Model Selection for House Price "
-date:       2020-06-25 04:26:51 +0000
+title:      "Model Selection Process"
+date:       2020-06-25 00:26:52 -0400
 permalink:  model_selection_for_house_price
 ---
 
