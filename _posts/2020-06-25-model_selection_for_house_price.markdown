@@ -36,5 +36,5 @@ If there are still bad results, then perhaps switching up the model type (e.g. m
 And there you have it!
 With your model now alive and (predicting) well, stakeholders can reap the fruit of all our work and see why data science is so powerful.
 
-Check out my Analysis on House Prices where I go through the above process: https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/HousePriceDatafromKingCounty.ipynb
+Check out my Analysis on House Prices where I go through the above process: [House Sale Prices](https://github.com/JohnPaulHernandezAlcala/House_Sale_Prices/blob/master/HousePriceDatafromKingCounty.ipynb)
 
