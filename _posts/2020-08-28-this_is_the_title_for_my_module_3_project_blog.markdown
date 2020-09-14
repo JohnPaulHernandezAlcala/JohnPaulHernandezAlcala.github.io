@@ -26,6 +26,7 @@ Hyper-what? The only thing I took out of this is that it is able to achieve a go
 Take a look at the visuals from this video: https://www.youtube.com/watch?v=efR1C6CvhmE&app=desktop&ab_channel=StatQuestwithJoshStarmer
 
 K-Nearest Neighbor:
+![](https://cdn-images-1.medium.com/max/800/0*uNbO79MrS7jvY4qp.png)
 
 "An effective classification and regression algorithm that uses nearby points in order to generate a prediction."
 
