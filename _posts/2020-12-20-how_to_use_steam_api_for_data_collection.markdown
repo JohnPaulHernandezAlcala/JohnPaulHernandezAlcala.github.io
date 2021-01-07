@@ -24,6 +24,8 @@ data = requests.get(url="https://api.steampowered.com/ISteamApps/GetAppList/v2",
 ```
 
 Fast-forward two days, and I realized that game ownership data was recently made unavailable as of 2018 (keep reading for details); that is until I ran across [Steam Spy]( https://steamspy.com/). So I used the Steam API to tell me which appids were actually games and then fed these ids to Steam Spy to get ownership and other data. [Although the data in Steam Spy is not as accurate as it was pre-2018,](https://www.polygon.com/2018/6/30/17521296/valve-steam-spy-replacement-tools-metrics), it is still very valuable because the current data is derived from historical data collected since at the latest 2014. Maybe you ask, why not just ask Steam if they have the better tools available that they promised would be developed soon in 2018. Turns out, they have no real timeline in place:
+
+[Steam Chat](https://drive.google.com/file/d/1nPOJi-ghv9183ElQ5W1YHHtiH7DAgPez/view?usp=sharing)
  
 Upon further inspection of Steam Spy, it appears that the creator of Steam Spy, Sergey Galyonkin, has a [Patreon]( https://www.patreon.com/steamspy) account where you can even access more data. The problem is that the provided API does not provide this additional data. Therefore, I concluded that scraping would be my best plan of action. So, after checking the Privacy agreement and the [Robots.txt](https://steamspy.com/robots.txt) of Steam Spy ([What is a robots.txt file](https://moz.com/learn/seo/robotstxt)--click here to find out!), I felt like this was a green light to scrape. With a little help from Selenium’s chrome driver, I set my little scrapping bot to do all my bidding.
 Here is how I started my bot:
