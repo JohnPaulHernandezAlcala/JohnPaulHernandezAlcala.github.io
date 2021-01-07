@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Setting Up a Selenium Bot for Scraping"
+title:      "Setting Up a Selenium Bot for Scraping Steam Data"
 date:       2020-12-20 23:34:54 -0500
 permalink:  how_to_use_steam_api_for_data_collection
 ---
