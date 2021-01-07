@@ -1,13 +1,18 @@
 ---
 layout: post
-title:      "How to Use Steam API for Data Collection for ab"
+title:      "Setting Up a Selenium Bot for Scraping"
 date:       2020-12-20 23:34:54 -0500
 permalink:  how_to_use_steam_api_for_data_collection
 ---
 
+
 ![Steam](https://assets.vg247.com/current//2018/06/steam-logo1-600x337.jpg)
+
 Interacting with an API can be daunting especially if the documentation is spread between wiki pages like Steam has theirs. When I first performed a Google search on how to use the Steam API, I noticed there were many libraries that had been created to make the process easier. I was so enthralled to discover this, until I realized each one that I tried to use either no longer worked or was not clear with how to use it. 
-Confused gif
+
+![Confused gif](https://media.giphy.com/media/glmRyiSI3v5E4/giphy-downsized-large.gif)
+
+
 Eventually, I learned how to make request to the Steam API! It was actually more simple than I thought initially. Here is how I did it:
 
 ```
